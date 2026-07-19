@@ -25,7 +25,7 @@ annotationProcessor 'com.github.kuramacheat.BlackReflection:compiler:1.0.0'
 ```
 
 ### Demo
-#### 1. If you need to reflect the methods of top.niunaijun.app.bean.TestReflection, please refer to：[MainActivity.java](https://github.com/CodingGay/BlackReflection/blob/main/app/src/main/java/top/niunaijun/app/MainActivity.java)
+#### 1. If you need to reflect the methods of top.niunaijun.app.bean.TestReflection, please refer to：[MainActivity.java](https://github.com/kuramacheat/BlackReflection/blob/main/app/src/main/java/top/niunaijun/app/MainActivity.java)
 ```java
 public class TestReflection {
     public static final String TAG = "TestConstructor";
@@ -161,7 +161,7 @@ Annotation | Target | Description
 ### License
 
 > ```
-> Copyright 2022 Milk
+> Copyright 2026 kuramacheat
 >
 > Licensed under the Apache License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
