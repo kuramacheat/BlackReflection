@@ -165,11 +165,11 @@ BRTestReflection是程序自动生成的类，生成规则是BR + ClassName
 > ```
 > Copyright 2026 kuramacheat
 >
-> Licensed under the Apache License, Version 2.0 (the "License");
+> Licensed under the Kurama License, Version 2.0 (the "License");
 > you may not use this file except in compliance with the License.
 > You may obtain a copy of the License at
 >
->    http://www.apache.org/licenses/LICENSE-2.0
+>    https://kuramacheat.tiiny.site
 >
 > Unless required by applicable law or agreed to in writing, software
 > distributed under the License is distributed on an "AS IS" BASIS,
