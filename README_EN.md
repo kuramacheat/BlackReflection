@@ -20,8 +20,8 @@ allprojects {
 ```
 #### Step 2. Add BlackReflection dependencies
 ```gradle
-implementation 'com.github.CodingGay.BlackReflection:core:1.0.9'
-annotationProcessor 'com.github.CodingGay.BlackReflection:compiler:1.0.9'
+implementation 'com.github.kuramacheat.BlackReflection:core:1.0.0'
+annotationProcessor 'com.github.kuramacheat.BlackReflection:compiler:1.0.0'
 ```
 
 ### Demo
